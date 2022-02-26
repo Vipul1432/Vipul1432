@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vipul1432
+- 👋 Hi, I’m @Vipul
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Web Developer 
 - 💞️ I’m looking to collaborate on any web project
