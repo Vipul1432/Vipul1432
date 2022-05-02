@@ -27,22 +27,22 @@
 
 <p align="center">
     <a href="https://github.com/Vipul1432/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vipul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-  <a href =""> <img height = "185rem" alt="Rahul Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vipul1432&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
-  <a href =""><img height = "185rem" alt="Rahul Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul1432&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href =""> <img height = "185rem" alt="Vipul Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vipul1432&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
+  <a href =""><img height = "185rem" alt="Vipul Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul1432&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/Vipul1432/github-readme-activity-graph"><img alt="Rahul Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vipul1432&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Vipul1432/github-readme-activity-graph"><img alt="Vipul Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vipul1432&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
