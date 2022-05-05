@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+- 🎓 I am currently pursuing my **Bachelor's in Computer Engineering**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Web Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://vipul.com)**
 
