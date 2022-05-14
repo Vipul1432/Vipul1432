@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Web Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://vipul1432.w3spaces.com/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://vipul1432.github.io/Vipul-Portfolio/)**
 
 - 📫 How to reach me **vipulupadhyay563@gmail.com**
 
