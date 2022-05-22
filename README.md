@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!🙏;  
-  WWWelcome 😎+to+my+profile&center=true&size=30"></h1>
+  Welcome 😎+to+my+profile&center=true&size=30"></h1>
 
 <a href="#"><img width="100%" height="400" src="a.gif" height="175px"/></a>
 
