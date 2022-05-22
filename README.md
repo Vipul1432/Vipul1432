@@ -50,7 +50,7 @@
 
 ### Libraries & Framework
 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![ReactJs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
 [![JQuery](https://img.shields.io/badge/-JQuery-orange?style=flat-square&logo=JQuery)](https://jquery.com/)
