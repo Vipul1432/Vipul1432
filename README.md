@@ -1,5 +1,6 @@
+<h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello,There!🙏;Welcome+😎+to+my+profile&center=true&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello,There!🙏;Welcome+😎+to+my+profile&center=true&size=30)](https://git.io/typing-svg)</h1>
 
 <h1 align="center"><a aling="center" href="#"><img align="center" width="100%" height="400" src="a.gif" height="175px"/></a></h1>
 
