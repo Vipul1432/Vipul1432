@@ -1,6 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!🙏;  
+  WWWelcome 😎+to+my+profile&center=true&size=30"></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul</h1>
+<a href="#"><img width="100%" height="400" src="a.gif" height="175px"/></a>
+
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul</h1>
 <h3 align="center">❤️ A Programmer 🧑‍💻.</h3>
 
 
@@ -15,48 +19,82 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://vipul1432.github.io/Vipul-Portfolio/)**
 
 - 📫 How to reach me **vipulupadhyay563@gmail.com**
+  
+  [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vipul563@gmail.com)](mailto:vipulupadhyay563@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=vipul-kumar-194ba5171)](linkedin.com/in/vipul-kumar-194ba5171/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Vipul1432/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Vipulupadhyay563)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/vip143#7492)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i_m_vip_ul143/)](https://www.instagram.com/i_m_vip_ul143/)
 
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+[![Vipul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Vipul1432&theme=xcode)](https://github.com/Vipul1432/github-readme-activity-graph)
 
-## 🚀 Languages and Tools:
+## 👨🏻‍💻 Coding Profiles
 
-<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vipulupadhyay563)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)
+[![W3School](https://img.shields.io/badge/-W3School-2EC866?style=flat-square&logo=W3School&logoColor=white)](https://my-learning.w3schools.com/)
 
-[![Flutter](https://img.shields.io/badge/-Flutter-02569b?style=for-the-badge&labelColor=black&logo=Flutter&logoColor=02569b)](#) [![Typescript Badge](https://img.shields.io/badge/-Java-FF160B?style=for-the-badge&labelColor=black&logo=java&logoColor=FF160B)](#)  [![Javascript Badge](https://img.shields.io/badge/-CSS3-F0DB4F?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=F0DB4F)](#)
-<br/>
+## ⚡ Technologies
 
+### Language
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+### Libraries & Framework
+
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
+[![JQuery](https://img.shields.io/badge/-JQuery-orange?style=flat-square&logo=JQuery)](https://jquery.com/)
+[![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring)](https://spring.io/)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
+<!-- [![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/) -->
+
+### Tools:
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
+
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
+
+## 📈 Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Vipul1432&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vipul1432&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
 <p align="center">
-    <a href="https://github.com/Vipul1432/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vipul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=tokyonight" />
 </p>
+<br><br>
 
-## 📊 My Github Stats
-
-  <br/>
-  <a href =""> <img height = "185rem" alt="Vipul Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vipul1432&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
-  <a href =""><img height = "185rem" alt="Vipul Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul1432&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Vipul1432/github-readme-activity-graph"><img alt="Vipul Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vipul1432&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "www.linkedin.com/in/linkedin.com/in/vipul-kumar-194ba5171///"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/i_m_vip_ul143/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/VipulUpadhyay"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/Vipul1432/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+## ❤️ Views and Followers
+<a href="https://github.com/Vipul1432/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Vipul1432">
 </a>
 <a href="https://github.com/Vipul1432?tab=followers"><img src="https://img.shields.io/github/followers/Vipul1432?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br><br>
+<a href="#"><img width="100%" height="auto" src="marquee.svg" height="175px"/></a>
+
+ ![image](img.png)
