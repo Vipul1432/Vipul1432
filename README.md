@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello,There!🙏;Welcome+😎+to+my+profile&center=true&size=30)](https://git.io/typing-svg)
 
-<a aling="center" href="#"><img width="100%" height="400" src="a.gif" height="175px"/></a>
+<a aling="center" href="#"><img align="center" width="100%" height="400" src="a.gif" height="175px"/></a>
 
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul</h1>
 <h3 align="center">❤️ A Programmer 🧑‍💻.</h3>
