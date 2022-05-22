@@ -4,7 +4,7 @@
 
 <h1 align="center"><a aling="center" href="#"><img align="center" width="100%" height="400" src="a.gif" height="175px"/></a></h1>
 
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul</h1>
+  <h1 align="center">Hi <img src="wave.gif" width="30px">, I'm Vipul</h1>
 <h3 align="center">❤️ A Programmer 🧑‍💻.</h3>
 
 
