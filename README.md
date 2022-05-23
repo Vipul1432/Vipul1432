@@ -87,7 +87,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=tokyonight" />
 </p>
 <br><br>
-
+<div align="center">
+<img src="snake.gif" width="500">
+	<img src="snake.svg" />
+</div>
 ## ❤️ Views and Followers
 <a href="https://github.com/Vipul1432/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Vipul1432">
