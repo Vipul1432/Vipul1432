@@ -92,6 +92,7 @@
 	<img src="snake.svg" />
 </div>
 ## ❤️ Views and Followers
+<br>
 <a href="https://github.com/Vipul1432/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Vipul1432">
 </a>
