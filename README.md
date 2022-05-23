@@ -18,7 +18,7 @@
 
 - 👨‍💻 𝐀𝐥𝐥 𝐨𝐟 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐫𝐞 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐚𝐭 **[𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](vipul1432.github.io/Vipul-Portfolio/)**
 
-- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 **𝐯𝐢𝐩𝐮𝐥𝐮𝐩𝐚𝐝𝐡𝐲𝐚𝐲𝟓𝟔𝟑@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
+- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 **[𝐯𝐢𝐩𝐮𝐥𝐮𝐩𝐚𝐝𝐡𝐲𝐚𝐲𝟓𝟔𝟑@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](mailto:vipulupadhyay563@gmail.com)**
   
   [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vipul563@gmail.com)](mailto:vipulupadhyay563@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=vipul-kumar-194ba5171)](linkedin.com/in/vipul-kumar-194ba5171/)
