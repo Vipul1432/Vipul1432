@@ -86,7 +86,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=tokyonight" />
 </p>
-<br><br>
+<br>
 <div align="center">
 <img src="snake.gif" width="500">
 	<img src="snake.svg" />
