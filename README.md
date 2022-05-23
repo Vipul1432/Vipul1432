@@ -21,7 +21,7 @@
 - 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 **[𝐯𝐢𝐩𝐮𝐥𝐮𝐩𝐚𝐝𝐡𝐲𝐚𝐲𝟓𝟔𝟑@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](mailto:vipulupadhyay563@gmail.com)**
   
   [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vipul563@gmail.com)](mailto:vipulupadhyay563@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=vipul-kumar-194ba5171)](linkedin.com/in/vipul-kumar-194ba5171/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/vipul-kumar-194ba5171/)](linkedin.com/in/vipul-kumar-194ba5171/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Vipul1432/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Vipulupadhyay563)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/vip143#7492)
