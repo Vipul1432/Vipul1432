@@ -91,6 +91,7 @@
 <img src="snake.gif" width="500">
 	<img src="snake.svg" />
 </div>
+<br>
 ## ❤️ Views and Followers
 <br>
 <a href="https://github.com/Vipul1432/github-profile-views-counter">
