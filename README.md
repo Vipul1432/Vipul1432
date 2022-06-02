@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello,There!🙏;Welcome+😎+to+my+profile&center=true&size=30)](https://git.io/typing-svg)</h1>
 
-<h1 align="center"><a aling="center" href="#"><img align="center" width="100%" height="400" src="a.gif" height="175px"/></a></h1>
+<h1 align="center"><a aling="center" href="#"><img align="center" width="100%" src="a.gif" height="175px"/></a></h1>
 
   <h1 align="center">𝓗𝓲 <img src="wave.gif" width="30px">, 𝓘'𝓶 𝓥𝓲𝓹𝓾𝓵</h1>
 <h3 align="center">🎀 𝒜 𝒫𝓇💞𝑔𝓇𝒶𝓂𝓂𝑒𝓇 🎀🧑‍💻</h3>
