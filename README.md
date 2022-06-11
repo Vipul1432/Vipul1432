@@ -87,6 +87,13 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=tokyonight" />
 </p>
 <br>
+
+<br/>
+<p align="center">
+<a href="https://github.com/Vipul1432"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vipul1432&theme=tokyonight" />
+</span></a> </p>
+
 <div align="center">
 <img src="snake.gif" width="500">
 	<img src="snake.svg" />
