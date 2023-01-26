@@ -27,7 +27,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/vip143#7492)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i_m_vip_ul143/)](https://www.instagram.com/i_m_vip_ul143/)
 
-[![Vipul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Vipul1432&theme=xcode)](https://github.com/Vipul1432/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=vipul1432&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 👨🏻‍💻 Coding Profiles
 
