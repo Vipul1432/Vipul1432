@@ -79,14 +79,18 @@
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=Vipul1432&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vipul1432&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href =""><img height = "185rem" alt="Vipul Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul1432&langs_count=8&count_private=true&layout=compact&theme=tokyonight&bg_color=0D1117" /></a>
+  <br/>
+
 </td>
 </tr>
 </table>
+
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul1432&theme=tokyonight&border-color=#7cebf5" />
 </p>
 <br>
+
 
 <br/>
 <p align="center">
