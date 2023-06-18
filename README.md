@@ -7,7 +7,6 @@
   <h1 align="center">𝓗𝓲 <img src="wave.gif" width="30px">, 𝓘'𝓶 𝓥𝓲𝓹𝓾𝓵</h1>
 <h3 align="center">🎀 𝒜 𝒫𝓇💞𝑔𝓇𝒶𝓂𝓂𝑒𝓇 🎀🧑‍💻</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🎓 𝐈 𝐚𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐩𝐮𝐫𝐬𝐮𝐢𝐧𝐠 𝐦𝐲 **𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠**
@@ -40,38 +39,46 @@
 
 ### Language
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-%23323330?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=csharp&color=purple)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&color=purple)
+![PHP](https://img.shields.io/badge/-PHP-00599C?style=flat-square&logo=php&color=blue)
 
 ### Libraries & Framework
 
-[![ReactJs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=react)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
-[![JQuery](https://img.shields.io/badge/-JQuery-orange?style=flat-square&logo=JQuery)](https://jquery.com/)
-[![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring)](https://spring.io/)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
-<!-- [![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/) -->
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![ADO](https://img.shields.io/badge/ADO.net-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Entity](https://img.shields.io/badge/Entity-%230769AD.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-black.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-### Tools:
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/mysql-%238511FA.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### Tools
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
-
-<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
+![Visua lStudio](https://img.shields.io/badge/-Visual%20Studio-darkblue?style=flat-square&logo=visualstudio)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
 ## 📈 Stats
 
@@ -91,7 +98,6 @@
 </p>
 <br>
 
-
 <br/>
 <p align="center">
 <a href="https://github.com/Vipul1432"><span>
@@ -100,7 +106,7 @@
 
 <div align="center">
 <img src="snake.gif" width="500">
-	<img src="snake.svg" />
+ <img src="snake.svg" />
 </div>
 <br>
 ## ❤️ Views and Followers
