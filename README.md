@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mr.Vipul&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=38"/>
 
-# 👋 Hello World, I'm Vipul Kumar
+# 👋 Hello, I'm Vipul Kumar
 
 ### ⚡ Full Stack Engineer | .NET Specialist | Angular Developer | Performance Optimizer
 
