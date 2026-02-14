@@ -7,9 +7,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vipul%20Upadhyay&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mr.Vipul&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=38"/>
 
-# 👋 Hello World, I'm Vipul
+# 👋 Hello World, I'm Vipul Kumar
 
 ### ⚡ Full Stack Engineer | .NET Specialist | Angular Developer | Performance Optimizer
 
@@ -82,19 +82,20 @@ I build systems that are:
 # 📊 Engineering Analytics Dashboard
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vipul1432&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul1432&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em"
+src="https://github-readme-stats-delta-khaki-14.vercel.app/api?username=Vipul1432&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
----
+<p align="center">
+<img height="180em"
+src="https://github-readme-stats-delta-khaki-14.vercel.app/api/top-langs/?username=Vipul1432&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vipul1432&theme=github_dark"/>
+</p>
 
 # 🔥 Contribution Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vipul1432&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipul1432&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -102,7 +103,7 @@ I build systems that are:
 # 📈 GitHub Streak
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vipul1432&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Vipul1432&theme=github-dark&hide_border=true"/>
 </p>
 
 
